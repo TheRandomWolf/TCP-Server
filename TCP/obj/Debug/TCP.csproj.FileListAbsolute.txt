@@ -1,0 +1,27 @@
+c:\users\ori\documents\visual studio 2015\Projects\TCP\TCP\bin\Debug\TCP.exe.config
+c:\users\ori\documents\visual studio 2015\Projects\TCP\TCP\bin\Debug\TCP.exe
+c:\users\ori\documents\visual studio 2015\Projects\TCP\TCP\bin\Debug\TCP.pdb
+c:\users\ori\documents\visual studio 2015\Projects\TCP\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+c:\users\ori\documents\visual studio 2015\Projects\TCP\TCP\obj\Debug\TCP.exe
+c:\users\ori\documents\visual studio 2015\Projects\TCP\TCP\obj\Debug\TCP.pdb
+E:\TCP\TCP\bin\Debug\TCP.exe.config
+E:\TCP\TCP\obj\Debug\TCP.exe
+E:\TCP\TCP\obj\Debug\TCP.pdb
+E:\TCP\TCP\bin\Debug\TCP.exe
+E:\TCP\TCP\bin\Debug\TCP.pdb
+E:\TCP\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+F:\TCP\TCP\bin\Debug\TCP.exe.config
+F:\TCP\TCP\obj\Debug\TCP.exe
+F:\TCP\TCP\obj\Debug\TCP.pdb
+F:\TCP\TCP\bin\Debug\TCP.exe
+F:\TCP\TCP\bin\Debug\TCP.pdb
+F:\TCP\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+G:\TCP\TCP\bin\Debug\TCP.exe.config
+G:\TCP\TCP\obj\Debug\TCP.exe
+G:\TCP\TCP\obj\Debug\TCP.pdb
+G:\TCP\TCP\bin\Debug\TCP.exe
+G:\TCP\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+G:\TCP\TCP\bin\Debug\TCP.pdb
+C:\Users\Ori\Documents\Flash Drive\tmp(Cruzer)\TCP\TCP\bin\Debug\TCP.exe.config
+C:\Users\Ori\Documents\Flash Drive\tmp(Cruzer)\TCP\TCP\obj\Debug\TCP.exe
+C:\Users\Ori\Documents\Flash Drive\tmp(Cruzer)\TCP\TCP\obj\Debug\TCP.pdb
